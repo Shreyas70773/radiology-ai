@@ -1,0 +1,10 @@
+# selected_cases.txt
+# This file tells the program which cases from the giant Data_Entry_2017.csv to load.
+# Each line must be an exact match to a filename in your static/images folder.
+
+00000061_015.png
+00000144_001.png
+00000165_001.png
+00000001_000.png
+00000008_000.png
+00000032_021.png

@@ -1,0 +1,33 @@
+[
+  {
+    "case_id": "CASE001",
+    "image_url": "static/images/case001.jpg",
+    "patient_history": "A 58-year-old male presents with chest pain. No cough or fever.",
+    "expert_findings": [
+      "-effusion",
+      "-pneumothorax"
+    ]
+  },
+  {
+    "case_id": "CASE002",
+    "image_url": "static/images/case002.jpg",
+    "patient_history": "A 72-year-old female with a persistent cough and a low-grade fever.",
+    "expert_findings": [
+      "pneumonia",
+      "opacity",
+      "cardiomegaly",
+      "-pneumothorax"
+    ]
+  },
+  {
+    "case_id": "CASE003",
+    "image_url": "static/images/case003.jpg",
+    "patient_history": "An 81-year-old male with shortness of breath and known congestive heart failure.",
+    "expert_findings": [
+      "edema",
+      "effusion",
+      "cardiomegaly",
+      "opacity"
+    ]
+  }
+]
